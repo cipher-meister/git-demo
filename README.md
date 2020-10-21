@@ -1,4 +1,5 @@
 #Demo Git Repository
 	1. Wondering how many images to include in a newsletter? Find the answer and all the other best practices in our guide to newsletter images.
-	2. One last great element is the top right corner of the email that lets readers refer Away to their friends. This is a very powerful way to get more customers. It leverages your current audience, while continuing to grow your community with likeminded potential customers..
-Using our email creator that’ll be an easy task: you simply need to drag and drop any pre-designed elements (text boxes, columns, image boxes, buttons etc.) and compose the layout “live”, assembling its blocks.  
+
+#Ipsum below
+ 1 goal thing: Matter of fact, making a great email requires much more than a compelling content: the choice of a layout is by all means crucial when it comes to entice the reader.   
